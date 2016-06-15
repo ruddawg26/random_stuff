@@ -14,3 +14,10 @@ Just random stuff for me to look into or hold onto for the future
   
  - Blog reads
   - CTF Guide - https://trailofbits.github.io/ctf/index.html
+ 
+- Reverse Engineering
+  - Reverse Engineering for Beginners Ebook - http://beginners.re/
+  - Companion guide for above - http://challenges.re/
+
+- OSINT
+ - Advanced Reconnaissance Framework - http://osintframework.com/
