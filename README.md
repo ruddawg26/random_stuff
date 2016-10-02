@@ -21,6 +21,9 @@ Just random stuff for me to look into or hold onto for the future
 
 - OSINT
  - Advanced Reconnaissance Framework - http://osintframework.com/
+ 
+- Programming
+ - Getting started with C# - https://www.microsoft.com/net/tutorials/csharp/getting-started
 
 - Pentest/Research Lab
  - Old Windows trial WinXP and what not VMs. Links work even though not published on Microsoft anymore - https://gist.github.com/zmwangx/e728c56f428bc703c6f6  
