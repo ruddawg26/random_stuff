@@ -27,3 +27,6 @@ Just random stuff for me to look into or hold onto for the future
 
 - Pentest/Research Lab
  - Old Windows trial WinXP and what not VMs. Links work even though not published on Microsoft anymore - https://gist.github.com/zmwangx/e728c56f428bc703c6f6  
+ 
+- Win10 security hardening guide - for the paranoid - lol
+ - https://medium.com/@securitystreak/the-2017-pentester-guide-to-windows-10-privacy-security-cf734c510b8d#.yx1il8c1c
