@@ -14,6 +14,7 @@ Just random stuff for me to look into or hold onto for the future
  - Online Classes
   - Compilers - https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about
   - Open source society computer science Program Outline - https://github.com/open-source-society/computer-science
+  - selfpaced ARM assebly/Binary exploitation https://azeria-labs.com/writing-arm-assembly-part-1/
   
  - Blog reads
   - CTF Guide - https://trailofbits.github.io/ctf/index.html
